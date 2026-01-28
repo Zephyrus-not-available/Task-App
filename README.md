@@ -1,4 +1,4 @@
-#Task App
+# Task App
 
 A modern, RESTful task management application built with Spring Boot. Manage your to-do lists with ease using a clean API and optional Docker-based UI.
 
